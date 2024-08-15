@@ -6,7 +6,6 @@ import PyPDF2
 import traceback
 from MCQ_GENERATOR.utils import read_file,get_table_data
 from MCQ_GENERATOR.logger import logging
-from MCQ_GENERATOR.gen_code import generate_evaluate_chain
 from MCQ_GENERATOR.prompt import TEMPLATE
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
