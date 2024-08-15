@@ -2,4 +2,3 @@ langchain
 PyPDF2
 streamlit
 pandas
-traceback
