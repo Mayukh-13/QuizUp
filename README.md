@@ -1,4 +1,4 @@
-# QuizUp-
+# QuizUp
 An online quiz generator using LLM for any topic u want :)
 
 To run locally:
